@@ -1,5 +1,5 @@
 # MainActivity.java
-==================
+
 public class MainActivity extends Activity 
 {
    //宣告
